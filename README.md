@@ -1,10 +1,10 @@
-Shanghai, Shanghai, China
+Awesome Shanghai, Shanghai, China [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Shanghai, Shanghai, China. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Shanghai, Shanghai, China. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Shanghai, Shanghai, China
+Top 15 programmers in Shanghai, Shanghai, China
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Shanghai, Shanghai, China.
+These are the 15 most influential programmers in Shanghai, Shanghai, China. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Ruan YiFeng [@ruanyf](https://github.com/ruanyf) (54)
 2. astaxie [@astaxie](https://github.com/astaxie) (53)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. HuKai [@kesenhoo](https://github.com/kesenhoo) (31)
 15. 题叶 [@jiyinyiyong](https://github.com/jiyinyiyong) (31)
 
-You can find the comprehensive statistics at the page for [Shanghai, Shanghai, China](http://programmermap.com/area/shanghai-shanghai-china) at programmermap.com.
+You can find comprehensive statistics at the page for [Shanghai, Shanghai, China](http://programmermap.com/area/shanghai-shanghai-china) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) (7158)
+2. [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) (4871)
+3. [beego](beego.me) (4734)
+4. [android-training-course-in-chinese](http://hukai.me/android-training-course-in-chinese/index.html) (3375)
+5. [bullet](https://github.com/flyerhzm/bullet) (3362)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
